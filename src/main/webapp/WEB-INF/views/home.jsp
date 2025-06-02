@@ -28,7 +28,7 @@
             background-color: #f6f7f9;
         }
         body {
-            margin-top: 70px; /* Ajustez selon la hauteur réelle de votre navbar */
+            margin-top: 70px; 
         }
         @media (min-width: 767px) {
             .btn-custom {
